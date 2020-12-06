@@ -1,4 +1,5 @@
 Justin Rabe, 820663292 Raspberry Pi Audio Visualizer
+
 The source code and prototype were built following along to Scott Lawson's tutorial on how to build an Audo Reactive LED strip, listed here: 
 
 https://github.com/scottlawsonbc/audio-reactive-led-strip
