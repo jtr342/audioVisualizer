@@ -9,7 +9,7 @@ The Audio Visualizer works by taking in input data from a USB microphone and con
 into usable data for our LEDs. It utilizes these libraries: numpy (for tables), scipy (for calculations), and pyaudio for 
 the audio stuff. 
 
-Overall, the flow for the our project goes from:
+Overall, the flow for the project goes from:
 
 Speaker -> Microphone Input -> conversions and calculations -> LED output
 
